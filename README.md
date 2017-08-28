@@ -1,2 +1,2 @@
 # aquery
-the aQuery website.
+Welcome to the aQuery website!
